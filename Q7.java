@@ -1,5 +1,5 @@
 
-public class Main {
+public class Q7 {
 
     public static void main(String[] args) {
         //Q7
