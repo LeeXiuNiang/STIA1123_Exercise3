@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Main {
+public class Q4 {
 
     public static void main(String[] args) {
         //Q4
